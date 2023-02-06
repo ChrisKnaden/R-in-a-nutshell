@@ -1,5 +1,5 @@
 # R_in_a_nutshell
-Es handelt sich hierbei um eine Zusammenstellung von nützlichen R-Funktionen. Anhand von Beispieldatensätzen können alle enhaltenen Funktionen getestet werden. Die eigens erstellte [uebungsdatei.csv](uebungsdatei.csv) dient nur als Beispieldatei und bietet daher leider wenig Spielraum für tiefergehende statistische Schlussfolgerungen. :(
+Es handelt sich hierbei um eine Zusammenstellung von nützlichen R-Funktionen. Anhand von Beispieldatensätzen können alle enhaltenen Funktionen getestet werden. Zum schnelleren Wiederfinden von bestimmten R-Funktionen habe ich die Kapitel gesondert gekennzeichnet und teilweise mit eindrucksvollen Symbolen versehen. Die eigens erstellte [uebungsdatei.csv](uebungsdatei.csv) dient nur als Beispieldatei und bietet daher leider wenig Spielraum für tiefergehende statistische Schlussfolgerungen. :(
 
 ## Nutzung
 Folgende Funktion ändert den Dateipfad des Standard R-Directorys. Gegebenfalls muss dieser für die eigene Verwendung angepasst werden. Er befindet sich in den oberen Zeilen von [R_Analyse_Daten.R](R_Analyse_Daten.R):
