@@ -29,7 +29,8 @@ setwd("~/R-Projekte/learn_R")
 | 2 | ... | ... | ... | ... | ... |
 
 [laptop.csv](laptop.csv) repräsentiert durch ***laptops***
-Datensatz zu groß, um ihn hier darzustellen. Dieser wird für das Clustering genutzt.
+
+Der Datensatz hat zu viele Spalten, um ihn hier übersichtlich darzustellen. Dieser Datensatz wird für das Clustering genutzt.
 
 
 ## Quellen
