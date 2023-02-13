@@ -28,6 +28,10 @@ setwd("~/R-Projekte/learn_R")
 | 1 | 22/23 | 1 | 1 | 25 | 22 |
 | 2 | ... | ... | ... | ... | ... |
 
+[laptop.csv](laptop.csv) repräsentiert durch ***laptops***
+Datensatz zu groß, um ihn hier darzustellen. Dieser wird für das Clustering genutzt.
+
+
 ## Quellen
 [time_series_covid19_confirmed_11-16-2022.rda](time_series_covid19_confirmed_11-16-2022.rda) stammt modifiziert aus folgendem Datensatz: https://github.com/CSSEGISandData/COVID-19
 
