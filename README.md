@@ -28,7 +28,7 @@ setwd("~/R-Projekte/learn_R")
 | 1 | 22/23 | 1 | 1 | 25 | 22 |
 | 2 | ... | ... | ... | ... | ... |
 
-[laptop.csv](laptop.csv) repräsentiert durch ***laptops***
+[laptops.csv](laptops.csv) repräsentiert durch ***laptops***
 
 Der Datensatz hat zu viele Spalten, um ihn hier übersichtlich darzustellen. Dieser Datensatz wird für das Clustering genutzt.
 
