@@ -1,4 +1,4 @@
-# R_in_a_nutshell
+# R in a nutshell
 Es handelt sich hierbei um eine Zusammenstellung von nützlichen R-Funktionen. Anhand von Beispieldatensätzen können alle enhaltenen Funktionen getestet werden. Zum schnelleren Wiederfinden von bestimmten R-Funktionen habe ich die Kapitel gesondert gekennzeichnet und teilweise mit eindrucksvollen Symbolen versehen. Die eigens erstellte [uebungsdatei.csv](uebungsdatei.csv) dient nur als Beispieldatei und bietet daher leider wenig Spielraum für tiefergehende statistische Schlussfolgerungen. :(
 
 ## Nutzung
